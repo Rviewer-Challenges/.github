@@ -4,8 +4,8 @@ Hey, this is Rviewer! 👋
 
 ![Rviewer Logo](/.github/rviewer_logo.png)
 
-[Rviewer](https://rviewer.io) is the last job platform, where you could evaluate your Technical Skills within a
-Challenge and find jobs that really match your skills!
+[Rviewer](https://rviewer.io) is a job platform -among many other things-, made by and for tech people! You can assess 
+your technical skills through a code challenge and find jobs that really match your skills.
 
 With Rviewer you will skip the Tech Challenges on every company, just evaluating once and receiving feedback from one of
 out Tech Mentors! Sounds good, isn't it? So start building your Tech Profile! <sub>You could
