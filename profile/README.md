@@ -8,8 +8,8 @@ Hey, this is Rviewer! 👋
 your technical skills through a code challenge and find jobs that really match your skills.
 
 With Rviewer you will skip the Tech Challenges on every company, just evaluating once and receiving feedback from one of
-out Tech Mentors! Sounds good, isn't it? So start building your Tech Profile! <sub>You could
-see some examples [here](https://rviewer.io/salgadoenrgb) and [here](https://rviewer.io/anawolf) 🤫</sub>
+out Tech Mentors! Sounds good, isn't it? So start building your Tech Profile! **You could
+see some examples [here](https://rviewer.io/salgadoenrgb) and [here](https://rviewer.io/anawolf) 🤫**
 
 In this GitHub account you will find some Challenges but also all the skeletons we are using to provide a boilerplate
 code to our developers and avoid starting from scratch. You can use any of them to your own projects, update or improve
