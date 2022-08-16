@@ -30,8 +30,24 @@ Enjoy the Challenge!
 ## Skeletons
 
 [![Skeleton - Spring Boot & Java](https://github-readme-stats.vercel.app/api/pin/?username=Rviewer-Challenges&repo=skeleton-java-spring-rest)](https://github.com/Rviewer-Challenges/skeleton-java-spring-rest)
-[![Skeleton - Express & JS/TS](https://github-readme-stats.vercel.app/api/pin/?username=Rviewer-Challenges&repo=skeleton-express)](https://github.com/Rviewer-Challenges/skeleton-express)
-[![Skeleton - React & JS/TS](https://github-readme-stats.vercel.app/api/pin/?username=Rviewer-Challenges&repo=skeleton-react)](https://github.com/Rviewer-Challenges/skeleton-react)
-[![Skeleton - Express & React & JS/TS](https://github-readme-stats.vercel.app/api/pin/?username=Rviewer-Challenges&repo=skeleton-express-react)](https://github.com/Rviewer-Challenges/skeleton-express-react)
+
 [![Skeleton - Flask & Python](https://github-readme-stats.vercel.app/api/pin/?username=Rviewer-Challenges&repo=skeleton-py-flask-rest)](https://github.com/Rviewer-Challenges/skeleton-py-flask-rest)
+
 [![Skeleton - Django & Python](https://github-readme-stats.vercel.app/api/pin/?username=Rviewer-Challenges&repo=skeleton-py-django-rest)](https://github.com/Rviewer-Challenges/skeleton-py-django-rest)
+
+[![Skeleton - C# & ASP.NET Core](https://github-readme-stats.vercel.app/api/pin/?username=Rviewer-Challenges&repo=skeleton-asp-net-api)](https://github.com/Rviewer-Challenges/skeleton-asp-net-api)
+
+[![Skeleton - Express & JS/TS](https://github-readme-stats.vercel.app/api/pin/?username=Rviewer-Challenges&repo=skeleton-express)](https://github.com/Rviewer-Challenges/skeleton-express)
+
+[![Skeleton - Express & React & JS/TS](https://github-readme-stats.vercel.app/api/pin/?username=Rviewer-Challenges&repo=skeleton-express-react)](https://github.com/Rviewer-Challenges/skeleton-express-react)
+
+[![Skeleton - Express & Vue & JS/TS](https://github-readme-stats.vercel.app/api/pin/?username=Rviewer-Challenges&repo=skeleton-express-vue)](https://github.com/Rviewer-Challenges/skeleton-express-vue)
+
+[![Skeleton - React & JS/TS](https://github-readme-stats.vercel.app/api/pin/?username=Rviewer-Challenges&repo=skeleton-ts-react-webapp)](https://github.com/Rviewer-Challenges/skeleton-ts-react-webapp)
+
+[![Skeleton - Angular & JS/TS](https://github-readme-stats.vercel.app/api/pin/?username=Rviewer-Challenges&repo=skeleton-ts-angular)](https://github.com/Rviewer-Challenges/skeleton-ts-angular)
+
+[![Skeleton - Vue & JS/TS](https://github-readme-stats.vercel.app/api/pin/?username=Rviewer-Challenges&repo=skeleton-vue)](https://github.com/Rviewer-Challenges/skeleton-vue)
+
+
+
