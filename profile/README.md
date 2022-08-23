@@ -22,8 +22,12 @@ Enjoy the Challenge!
 
 ## Challenges
 
+Here you will find some of the Community challenges, public available for everyone! You could just solve it in your own repository, or inside Rviewer and receive feedback! 
+
 [![Memory Game](https://github-readme-stats.vercel.app/api/pin/?username=Rviewer-Challenges&repo=mouredev-memory-game)](https://github.com/Rviewer-Challenges/mouredev-memory-game)
 [![Twitter Replica](https://github-readme-stats.vercel.app/api/pin/?username=Rviewer-Challenges&repo=mouredev-twitter-mirroring)](https://github.com/Rviewer-Challenges/mouredev-twitter-mirroring)
+[![RSS Reader](https://github-readme-stats.vercel.app/api/pin/?username=Rviewer-Challenges&repo=mouredev-rss-reader)](https://github.com/Rviewer-Challenges/mouredev-rss-reader)
+[![Firebase Chat](https://github-readme-stats.vercel.app/api/pin/?username=Rviewer-Challenges&repo=mouredev-firebase-chat)](https://github.com/Rviewer-Challenges/mouredev-firebase-chat)
 
 ---
 
